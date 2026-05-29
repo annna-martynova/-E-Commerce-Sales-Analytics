@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annna-martynova/sales-analysis/blob/main/your_notebook.ipynb)
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/anna.martynova/viz/E-CommerceSales_17797349252600/E-CommerceSales#1)
 
-## About
+## About 
 Analysis of an online furniture store's sales performance over 
 November 2020 – January 2021. Data extracted from Google BigQuery, 
 processed in Python, and visualized in Tableau Public.
